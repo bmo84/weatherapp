@@ -1,0 +1,31 @@
+body{
+  background-color:  #bcaaa4;  
+  color: #efebe9;
+  font-family: 'Exo', sans-serif;
+}
+
+.wrapper{
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #3e2723;
+  box-shadow: 1px 1px 1px #3e2723;
+  border-radius: 10px;
+  padding: 0.5em;
+}
+.header{
+  text-align: center;
+}
+.content{
+  margin: 0 auto;
+  text-align: center;
+  
+}
+.icon{
+  display: block;
+  margin: 0 auto;
+}
+.temperature:hover,.temp-symbol:hover{
+  cursor: pointer;
+}
+
+
